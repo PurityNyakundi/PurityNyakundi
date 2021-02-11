@@ -1,4 +1,4 @@
-### Hi there peep 🤗
+###### Hi there peep 🤗
 - 🔭 I’m currently an R enthusiast
 - 🌱 I’m currently learning Machine learning in both python and R
 - 👯 I’m passionate about R communities 
