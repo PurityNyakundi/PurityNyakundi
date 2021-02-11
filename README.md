@@ -1,10 +1,4 @@
-### Hi there peeps 👋
-
-<!--
-**PurityNyakundi/PurityNyakundi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there peep 🤗
 - 🔭 I’m currently an R enthusiast
 - 🌱 I’m currently learning Machine learning in both python and R
 - 👯 I’m passionate about R communities 
