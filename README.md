@@ -1,4 +1,4 @@
-## Hi there peep 🤗![GitHub Logo](Octocat.png)
+## Hi there peeps 🤗![GitHub Logo](Octocat.png)
 - 🔭 I’m currently an R enthusiast
 - 🌱 I’m currently learning Machine learning in both python and R
 - 👯 I’m passionate about R communities 
