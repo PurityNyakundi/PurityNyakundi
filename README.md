@@ -1,4 +1,4 @@
-## Hi there peep 🤗![GitHub Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw28wO8t5Nh6ZhhOCUpBEapS&ust=1613123572799000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMiPgcXH4e4CFQAAAAAdAAAAABAD)
+## Hi there peep 🤗![GitHub Logo](Octocat.png)
 - 🔭 I’m currently an R enthusiast
 - 🌱 I’m currently learning Machine learning in both python and R
 - 👯 I’m passionate about R communities 
