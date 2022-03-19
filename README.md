@@ -1,9 +1,9 @@
 ## Hi there peeps 🤗![GitHub Logo](Octocat.png)
-- 🔭 I’m currently an R enthusiast
+- 🔭 I’m currently an data science enthusiast
 - 🌱 I’m currently learning Machine learning in both python and R
 - 👯‍I'm currently looking for open source projects to contribute in the above fields.
-- 🤗 I’m passionate about R communities 
+- 🤗 I’m passionate about tech communities 
 - 🤔 What else let me see...
-- 💬 Ask me about R,data science in general and machine learning
+- 💬 Ask me about data science in general and machine learning
 - ⚡ Fun fact: I prefer being called my surname to my other names.
 -->
